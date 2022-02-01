@@ -4,3 +4,10 @@ h1 {
 body {
   background-color: #fff9ecff;
 }
+div {
+  background-color: #ffdcccff;
+  width: 250px;
+  border: 5px #fcb1a6ff;
+  padding: 25px;
+  margin: 20px;
+}
