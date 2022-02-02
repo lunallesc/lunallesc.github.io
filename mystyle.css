@@ -1,3 +1,16 @@
+h1 {
+  background: #406317;
+  padding: 6px;
+  margin: 20px;
+  text-align: left;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #fff;
+  font-family: Trebuchet MS, sans-serif;
+  font-size: 25px;
+  text-align: center;
+  margin: auto;
+}
 h2 {
   background: #406317;
   padding: 6px;
