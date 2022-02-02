@@ -14,8 +14,11 @@ body {
   background-repeat: repeat;
 }
 div {
-  background: #fff;
-  color: #000;
-  font-family: Trebuchet MS, sans-serif;
-  padding: 50px;
+    background: #fff;
+    color: #000;
+    padding: 25px;
+    width: fit-content;
+    text-align: center;
+    margin: auto;
+    border-style: solid;
 }
