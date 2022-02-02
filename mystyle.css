@@ -1,14 +1,21 @@
+h2 {
+  background: #406317;
+  padding: 6px;
+  margin: 20px;
+  text-align: left;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #fff;
+  font-family: Trebuchet MS, sans-serif;
+  font-size: 20px;
+}
 body {
   background-image: url(https://github.com/lunallesc/lunallesc.github.io/blob/main/bg_paper01_green.png?raw=true);
   background-repeat: repeat;
 }
 div {
-    margin: -5px -5px 10px -5px;
-    padding: 5px 6px;
-    background-color: #406317;
-    text-align: left;
-    text-transform: uppercase;
-    font-weight: bold;
-    color: #fff;
-    font-size: 10px;
+  background: #fff;
+  color: #000;
+  font-family: Trebuchet MS, sans-serif;
+  padding: 50px;
 }
