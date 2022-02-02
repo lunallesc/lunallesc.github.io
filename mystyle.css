@@ -2,7 +2,8 @@ h1 {
   color: #fb6376ff;
 }
 body {
-  background-color: #fff9ecff;
+  background-image: url("https://github.com/lunallesc/lunallesc.github.io/blob/main/bg_paper01_green.png?raw=true");
+  background-repeat: repeat-y;
 }
 div {
   background-color: #ffdcccff;
