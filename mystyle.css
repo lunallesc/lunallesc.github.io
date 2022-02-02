@@ -8,7 +8,8 @@ body {
 div {
   background-color: #ffdcccff;
   width: 1000px;
-  border: 25px #fcb1a6ff;
+  border: 25px;
+  border-color: #fcb1a6ff;
   padding: 25px;
   margin: 20px;
 }
