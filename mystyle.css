@@ -20,8 +20,7 @@ h2 {
   font-size: 20px;
 }
 body {
-  background-image: url(https://github.com/lunallesc/lunallesc.github.io/blob/main/bg_paper01_green.png?raw=true);
-  background-repeat: repeat;
+  background-color: d2e2c8;
 }
 table {
   margin: auto;
