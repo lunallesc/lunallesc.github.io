@@ -23,12 +23,15 @@ body {
   background-image: url(https://github.com/lunallesc/lunallesc.github.io/blob/main/bg_paper01_green.png?raw=true);
   background-repeat: repeat;
 }
+table {
+  margin: auto;
+}
 div {
-    background: #fff;
-    color: #000;
-    padding: 25px;
-    width: fit-content;
-    text-align: center;
-    margin: auto;
-    border-style: solid;
+  background: #fff;
+  color: #000;
+  padding: 25px;
+  width: fit-content;
+  text-align: center;
+  margin: auto;
+  border-style: solid;
 }
