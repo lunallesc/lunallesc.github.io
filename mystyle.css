@@ -1,12 +1,15 @@
 h1 {
-  background: #406317;
-  padding: 6px;
-  margin: 20px;
-  color: #fff;
-  font-size: 25px;
-  text-align: center;
-  margin: auto;
-  font-family: Trebuchet MS, sans-serif;
+    border-style: solid;
+    padding: 6px;
+    color: #fff;
+    font-size: 25px;
+    font-family: Trebuchet MS, sans-serif;
+    width: 800px;
+    text-align: center;
+    margin: auto;
+    background-color: #CC7178;
+    border-color: #89023E;
+    font-weight: 500;
 }
 h2 {
   background: #406317;
