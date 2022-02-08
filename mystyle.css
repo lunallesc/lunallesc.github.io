@@ -29,17 +29,11 @@ body {
     margin-left:auto; 
     margin-right:auto;
 }
-#Bcenter {
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
 div {
   background: #fff;
   color: #000;
   padding: 25px;
   width: 800px;
   text-align: center;
-  margin: auto;
   border-style: solid;
 }
