@@ -37,3 +37,9 @@ div {
   text-align: center;
   border-style: solid;
 }
+.div1 {
+    float: left;
+}
+.div2 {
+    float: right;
+}
