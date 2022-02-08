@@ -43,3 +43,6 @@ div {
 .div2 {
     float: right;
 }
+img {
+    border-style: solid;
+}
