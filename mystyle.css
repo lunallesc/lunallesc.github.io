@@ -39,10 +39,10 @@ div {
     width: fit-content;
 }
 .div1 {
-    float: left;
+    width: 150px;
 }
 .div2 {
-    float: right;
+    width: 150px;
 }
 img {
     border-style: solid;
