@@ -38,12 +38,6 @@ div {
     margin: auto;
     width: fit-content;
 }
-.div1 {
-    width: 25%;
-}
-.div2 {
-    width: 25%;
-}
 img {
     border-style: solid;
     display: block;
