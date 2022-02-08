@@ -36,7 +36,7 @@ div {
     text-align: center;
     border-style: solid;
     margin: auto;
-    width: 760px;
+    width: fit-content;
 }
 .div1 {
     float: left;
