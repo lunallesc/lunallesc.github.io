@@ -1,1 +1,21 @@
-
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Final Project</title>
+        <link rel="stylesheet" href="mystyle.css">
+    </head>
+    <img src="https://github.com/lunallesc/lunallesc.github.io/blob/main/myBanner.png?raw=true">
+    <body>
+        <table class="center">
+            <th><a href="https://lunallesc.github.io/index.html"><img src="https://github.com/lunallesc/lunallesc.github.io/blob/main/home.png?raw=true"></a></th>
+            <th><a href="https://lunallesc.github.io/javascripts.html"><img src="https://github.com/lunallesc/lunallesc.github.io/blob/main/javascripts.png?raw=true"></a></th>
+            <th><a href="https://lunallesc.github.io/about.html"><img src="https://github.com/lunallesc/lunallesc.github.io/blob/main/about.png?raw=true"></a></th>
+        </table>
+        <h1>Final Project</h1>
+            <p>
+            The goal of the game is simple,<br>try to dig up more valuable treasure<br>than your opponent.<br>Player 1 gets first move off the middle tile,<br>either up or down!<br>The second player then gets to move side to side<br>within the row of your oponents last move<br>after no more legal moves can be made<br>it's a free for all\nThe game ends when no more moves can be made.<br>Good Luck!
+            <h2><a href="https://www.khanacademy.org/computer-programming/chau_finalproject/6314139333476352">chau_FinalProject</a></h2><script src="https://www.khanacademy.org/computer-programming/chau_finalproject/6314139333476352/embed.js?editor=no&buttons=no&author=no&embed=yes"></script>
+            </p>
+    </body>
+</html>
